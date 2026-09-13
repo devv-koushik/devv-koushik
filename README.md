@@ -201,7 +201,10 @@ AI-assisted resume analysis application designed to evaluate and improve resumes
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devv-koushik&hide_border=true&area=true" alt="Contribution Activity Graph"/>
+  <img
+    src="https://YOUR-PROJECT.vercel.app/graph?username=devv-koushik&hide_border=true&area=true"
+    alt="Koushik's GitHub Contribution Activity Graph"
+  />
 </p>
 
 ---
