@@ -210,15 +210,6 @@ AI-assisted resume analysis application designed to evaluate and improve resumes
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devv-koushik&theme=github_dark" alt="Most Commit Language"/>
 </p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devv-koushik&theme=flat&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies"/>
-</p>
-
 ---
 
 # 💻 Coding Profiles
