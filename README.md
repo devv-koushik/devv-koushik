@@ -180,23 +180,6 @@ AI-assisted resume analysis application designed to evaluate and improve resumes
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=devv-koushik&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank=true"
-    alt="Koushik's GitHub Stats"
-  />
-
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devv-koushik&layout=compact&langs_count=8&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
----
-
 # 🔥 Contribution Streak
 
 <p align="center">
