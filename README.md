@@ -243,7 +243,7 @@ AI-assisted resume analysis application designed to evaluate and improve resumes
 </p>
 
 <p align="center">
-<b>Building. Learning. Breaking. Fixing. Repeating. 🚀</b>
+<b>Building. Learning. Breaking. Fixing. Repeating. 🚀 </b>
 </p>
 
 <p align="center">
